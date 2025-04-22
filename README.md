@@ -18,4 +18,4 @@ ThunderV is a high-voltage meme token launched on Binance Smart Chain (BSC), des
 
 ## 🌐 Community
 - Twitter (X): [@THV1757985](https://x.com/THV1757985)
-- Telegram: [https://t.me/thvproject](https://t.me/thvproject)
+
